@@ -106,7 +106,7 @@ watch(
       font-family: "Pacifico-Regular";
 
       .bg {
-        font-size: 5rem;
+        font-size: 4rem;
       }
 
       .sm {
@@ -117,7 +117,7 @@ watch(
         }
       }
     }
-    @media (max-width: 768px) {
+    @media (max-width: 868px) {
       .logo-img {
         width: 100px;
       }
